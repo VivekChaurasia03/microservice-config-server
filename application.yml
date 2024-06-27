@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: CONFIG-DEFAULT
+
 # This application will use the url provided to register with the server.
 eureka:
   instance:
